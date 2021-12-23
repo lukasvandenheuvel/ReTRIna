@@ -19,4 +19,4 @@ Scripts in this repository:
 - ```SimulationStrategy.m```: Calculation of circuit constants and overall dimensions in the ReTRIna device (supports **Simulation Strategy** and **Shunt Resistor** sections in report).
 - ```LTSpice/ReTRInaModel.asc```: LTSpice model to simulate the injected current (supports **Simulation Strategy** and **Shunt Resistor** sections in report).
 - ```LTSpice/PlotLTSiceModel.m```: Plot simulation results.
-- ```PhotovoltaicCellSize.mlx```: Calculates the size of the photovoltaic cell needed to produce the necessary current (supports **Appendix D** of report.
+- ```PhotovoltaicCellSize.mlx```: Calculates the size of the photovoltaic cell needed to produce the necessary current (supports **Appendix D** of report).
